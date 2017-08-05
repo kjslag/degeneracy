@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     45190,       1252]
-NotebookOptionsPosition[     42258,       1157]
-NotebookOutlinePosition[     42596,       1172]
-CellTagsIndexPosition[     42553,       1169]
+NotebookDataLength[     45191,       1252]
+NotebookOptionsPosition[     42259,       1157]
+NotebookOutlinePosition[     42597,       1172]
+CellTagsIndexPosition[     42554,       1169]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1145,12 +1145,12 @@ Cell[BoxData[
   RowBox[{"{", 
    RowBox[{
     RowBox[{"2", "\[Rule]", "22"}], ",", 
-    RowBox[{"3", "\[Rule]", "6"}], ",", 
+    RowBox[{"3", "\[Rule]", "18"}], ",", 
     RowBox[{"5", "\[Rule]", "6"}], ",", 
     RowBox[{"7", "\[Rule]", "6"}], ",", 
     RowBox[{"11", "\[Rule]", "6"}], ",", 
     RowBox[{"13", "\[Rule]", "6"}]}], "}"}]}]], "Print",
- CellChangeTimes->{3.710894177683195*^9}]
+ CellChangeTimes->{3.710895507916543*^9}]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
@@ -1176,7 +1176,7 @@ Cell[13482, 351, 10173, 209, 778, "Input"],
 Cell[CellGroupData[{
 Cell[23680, 564, 96, 1, 88, "Subsection"],
 Cell[CellGroupData[{
-Cell[23801, 569, 132, 2, 88, "Input"],
+Cell[23801, 569, 132, 2, 63, "Input"],
 Cell[CellGroupData[{
 Cell[23958, 575, 232, 3, 47, "Print"],
 Cell[24193, 580, 378, 10, 47, "Print"],
@@ -1193,14 +1193,14 @@ Cell[28011, 700, 381, 10, 47, "Print"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[28441, 716, 192, 5, 88, "Input"],
-Cell[28636, 723, 223, 5, 88, "Output"]
+Cell[28441, 716, 192, 5, 63, "Input"],
+Cell[28636, 723, 223, 5, 63, "Output"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
 Cell[28908, 734, 101, 1, 88, "Subsection"],
 Cell[CellGroupData[{
-Cell[29034, 739, 166, 3, 88, "Input"],
+Cell[29034, 739, 166, 3, 63, "Input"],
 Cell[CellGroupData[{
 Cell[29225, 746, 254, 3, 47, "Print"],
 Cell[29482, 751, 396, 10, 47, "Print"],
@@ -1219,7 +1219,7 @@ Cell[33066, 859, 398, 10, 47, "Print"]
 Cell[CellGroupData[{
 Cell[33525, 876, 111, 1, 88, "Subsection"],
 Cell[CellGroupData[{
-Cell[33661, 881, 199, 3, 88, "Input"],
+Cell[33661, 881, 199, 3, 63, "Input"],
 Cell[CellGroupData[{
 Cell[33885, 888, 232, 3, 47, "Print"],
 Cell[34120, 893, 375, 10, 47, "Print"],
@@ -1238,7 +1238,7 @@ Cell[37513, 1001, 375, 10, 47, "Print"]
 Cell[CellGroupData[{
 Cell[37949, 1018, 100, 1, 88, "Subsection"],
 Cell[CellGroupData[{
-Cell[38074, 1023, 114, 2, 88, "Input"],
+Cell[38074, 1023, 114, 2, 63, "Input"],
 Cell[CellGroupData[{
 Cell[38213, 1029, 232, 3, 47, "Print"],
 Cell[38448, 1034, 373, 10, 47, "Print"],
@@ -1250,13 +1250,11 @@ Cell[40333, 1094, 373, 10, 47, "Print"],
 Cell[40709, 1106, 373, 10, 47, "Print"],
 Cell[41085, 1118, 377, 10, 47, "Print"],
 Cell[41465, 1130, 376, 10, 47, "Print"],
-Cell[41844, 1142, 374, 10, 47, "Print"]
+Cell[41844, 1142, 375, 10, 47, "Print"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
